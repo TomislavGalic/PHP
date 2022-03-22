@@ -10,6 +10,7 @@
 <?php
 
 function sumiranje(){
+// asdhaiushfp
 
     $suma1 = 2;
     $suma2 = 3;
